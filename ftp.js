@@ -5,7 +5,7 @@ Description: With this script we can create FTP server on any selected port.
 If you are using default port(21) for that case you may be have to use root privileges(sudo) 
 */
 var ftpd = require('./nodeftpd/ftpd.js');
-var server = ftpd.createServer("127.0.0.1", "./files/").listen(2121;
+var server = ftpd.createServer("127.0.0.1", "./files/").listen(2121);
 
 // this event passes in the client socket which emits further events
 // but should recommend they don't do socket operations on it
