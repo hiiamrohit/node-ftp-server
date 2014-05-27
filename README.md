@@ -2,7 +2,8 @@ Create Ftp Server using ftpd module of NodeJs
 =============================================
 
 1. Install NodeJs using npm
-2. Download ftpd module of NodeJs
+2. Download ftpd module from here
+```https://github.com/alanszlosek/nodeftpd```
 
 Note:
 =====
