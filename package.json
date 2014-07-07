@@ -1,0 +1,19 @@
+{
+  "name": "NodeFtpServer",
+  "description": "Create ftp srver using nodeftpd module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ftp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:rohitphp5/node-ftp-server.git"
+  },
+  "dependencies": {
+    "nodeftpd": "*"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
