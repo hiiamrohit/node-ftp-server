@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:rohitphp5/node-ftp-server.git"
+    "url": "git@github.com:hiiamrohit/node-ftp-server.git"
   },
   "dependencies": {
     "nodeftpd": "*"
