@@ -1,6 +1,6 @@
 /*
 Date: 08-04-2014
-Author: Rohit Patel
+Author: Rohit Kumar
 Description: With this script we can create FTP server on any selected port.
 If you are using default port(21) for that case you may be have to use root privileges(sudo) 
 */
